@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: beige;
+    section {
+        background: rgb(110, 19, 196);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+        }
+}
+header {
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.Classe_texto {
+    margin-right: 5%;  
+}
+.vídeo{
+    margin-right: 5%;  
+}
